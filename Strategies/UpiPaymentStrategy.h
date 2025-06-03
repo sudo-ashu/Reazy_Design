@@ -1,0 +1,8 @@
+//
+// Created by ashur on 03-06-2025.
+//
+
+#ifndef UPIPAYMENTSTRATEGY_H
+#define UPIPAYMENTSTRATEGY_H
+
+#endif //UPIPAYMENTSTRATEGY_H
